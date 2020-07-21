@@ -20,6 +20,6 @@ Assumptions:
 Sources:
 
 https://www.csharp-console-examples.com/methods/draw-a-rectangle-in-console-application-using-static-method/
-https://docs.microsoft.com/en-us/dotnet/api/system.net.sockets.tcplistener?redirectedfrom=MSDN&view=netcore-3.1 ~ DID NOT USE
+https://docs.microsoft.com/en-us/dotnet/api/system.net.sockets.tcplistener?redirectedfrom=MSDN&view=netcore-3.1 DID NOT USE
 https://docs.microsoft.com/en-us/visualstudio/test/walkthrough-creating-and-running-unit-tests-for-managed-code?view=vs-2019
 https://dzone.com/articles/generate-an-exe-for-net-core-console-apps-net-core
